@@ -1,0 +1,15 @@
+name: rpa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - keyring=23.9.3
+  - numpy=1.21.5
+  - openpyxl=3.0.9
+  - pandas=1.3.5
+  - pip=22.3.1
+  - python=3.7.16
+  - pywin32-ctypes=0.2.0
+  - pyyaml=6.0
+  - pip:
+      - rpa==1.50.0
