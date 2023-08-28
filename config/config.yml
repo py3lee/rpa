@@ -1,0 +1,11 @@
+---
+SEARCH_TERMS: ['bitcoin', 'gldm', 'sia', 'singtel', 'ethereum']
+START_DATE: '01/06/2019'
+END_DATE:
+CHART_NAME: 'Historical Price data'
+PRICE_THRESHOLD: 50
+SMTP:
+ toaddr: testrpa@testing.com
+ fromaddr: testrpa@testing.com
+ mailhost: localhost
+ mailport: 1025 # using local SMTP server for demo
